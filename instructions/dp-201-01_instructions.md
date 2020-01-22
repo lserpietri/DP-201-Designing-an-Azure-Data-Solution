@@ -5,7 +5,11 @@
 
 **Pre-requisites**: It is assumed that the case study for this lab has already been read.
 
-**Lab files**: The files for this lab are located in the _Allfiles\Labfiles\Starter\DP-201.1_ folder.
+**Lab files**: The files for this lab are located in the [Lab 1 Folder](Labfiles/Starter/DP-201.1).
+
+## Legend  
+👩‍🏫 = Whiteboard Activity  
+📄 = Complete a Document Activity
 
 ## Lab overview
 
@@ -13,8 +17,6 @@ The students will use the information gained in this module and apply it to a sc
 
 ## Lab objectives
   
-After completing this lab, you will be able to:
-
 1. Design with Security in Mind
 2. Design for Performance and Scalability
 3. Design for Availability and Recoverability
@@ -33,8 +35,6 @@ At the end of this lab, you will have:
 3. Design for Availability and Recoverability
 4. Design for Efficiency and Operations
 
->**Note**: This lab is in two parts. This is part 1 where you work as a group to answer the questions. The timings of each exercise is at the discretion of the group. The entire lab should be completed within 60 minutes. In Part 2, the instructor will drive a discussion with the group about their learnings and findings about the Lab.
-
 >**Resources**: As well as the using the course case study for this lab, you use also use resources such a [Microsoft Documentation](https://docs.microsoft.com), the [Azure Reference Architecture Site](https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/) and the [Microsoft Customer Stories Site](https://customers.microsoft.com/) to help inform you in answering questions in this lab. 
 
 ## Exercise 1: Design with Security in Mind
@@ -45,11 +45,11 @@ The main task for this exercise is as follows:
 
 1. From the case study, identify the security requirements of AdventureWorks.
 
-### Task 1: Identify the security requirements of AdventureWorks.
+### Task 1: 📄 Identify the security requirements of AdventureWorks.
 
-1. From your machine, start **Microsoft Word**, and open up the file **DP-201-Lab01.docx** from the **Allfiles\Labfiles\Starter\DP-201.1** folder.
+1. From your machine, open up the file [DP-201-Lab01.docx](../Labfiles/Starter/DP-201.1/DP-201-Lab01.docx)
 
-1. As a group, spend **15 minutes** discussing and listing the security requirements that your group has identified within the case study document. Evidence should be provided from the case study.
+2. As a group, spend **15 minutes** discussing and listing the security requirements that your group has identified within the case study document. Evidence should be provided from the case study.
 
 > **Result**: After you completed this exercise, you have created a Microsoft Word document that shows a table of security requirements for AdventureWorks.
 
@@ -61,9 +61,9 @@ The main task for this exercise are as follows:
 
 1. Determine the performance and scalability requirements as identify from the case study.
 
-### Task 1: Identify the performance and scalability requirements of AdventureWorks.
+### Task 1: 📄 Identify the performance and scalability requirements of AdventureWorks.
 
-1. From your machine, start **Microsoft Word**, and open up the file **DP-201-Lab01.docx** from the **Allfiles\Labfiles\Starter\DP-201.1** folder.
+1. Continue to work on the file [DP-201-Lab01.docx](../Labfiles/Starter/DP-201.1/DP-201-Lab01.docx)
 
 1. As a group, spend **15 minutes** discussing and listing the performance and scalability requirements that your group has identified within the case study document. Evidence should be provided from the case study.
 
@@ -77,9 +77,9 @@ The main task for this exercise are as follows:
 
 1. Determine the availability and recoverability requirements as identify from the case study.
 
-### Task 1: Identify the availability and recoverability requirements of AdventureWorks.
+### Task 1: 📄 Identify the availability and recoverability requirements of AdventureWorks.
 
-1. From your machine, start **Microsoft Word**, and open up the file **DP-201-Lab01.docx** from the **Allfiles\Labfiles\Starter\DP-201.1** folder.
+1. Continue to work on the file [DP-201-Lab01.docx](../Labfiles/Starter/DP-201.1/DP-201-Lab01.docx)
 
 1. As a group, spend **15 minutes** discussing and listing the availability and recoverability requirements that your group has identified within the case study document. Evidence should be provided from the case study.
 
@@ -93,9 +93,9 @@ The main task for this exercise are as follows:
 
 1. Determine the efficiency and operations requirements for AdventureWorks.
 
-### Task 1: Identify the efficiency and operations requirements of AdventureWorks.
+### Task 1: 📄 Identify the efficiency and operations requirements of AdventureWorks.
 
-1. From your machine, start **Microsoft Word**, and open up the file **DP-201-Lab01.docx** from the **Allfiles\Labfiles\Starter\DP-201.1** folder.
+1. Continue to work on the file [DP-201-Lab01.docx](../Labfiles/Starter/DP-201.1/DP-201-Lab01.docx)
 
 1. As a group, spend **15 minutes** discussing and listing the efficiency and operations requirements that your group has identified within the case study document. Evidence should be provided from the case study.
 
