@@ -1,7 +1,4 @@
-# DP-201-Designing-an-Azure-D
-
-[Instructions](/Instructions/)
-
+# DP-201 - Designing an Azure Data Platform
 
 The following is a summary of the lab objectives for each module:
 
