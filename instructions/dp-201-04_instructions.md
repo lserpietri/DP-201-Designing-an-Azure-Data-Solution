@@ -5,8 +5,6 @@
 
 **Pre-requisites**: It is assumed that the case study for this lab has already been read.
 
-**Lab files**: The files for this lab are located in the [Lab 4 Folder](/Labfiles/Starter/DP-201.4/).
-
 ## Legend  
 👩‍🏫 = Whiteboard Activity  
 📄 = Complete a Document Activity
