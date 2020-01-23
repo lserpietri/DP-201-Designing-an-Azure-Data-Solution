@@ -1,4 +1,7 @@
-# DP-201-Designing-an-Azure-Data-Solution
+# DP-201-Designing-an-Azure-D
+
+[Instructions](/Instructions/)
+
 
 The following is a summary of the lab objectives for each module:
 
