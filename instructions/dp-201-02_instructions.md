@@ -52,7 +52,7 @@ At the end of this lab, you will have:
 
 1. As a group, spend **15 minutes** discussing and listing the requirements that would form part of the Enterprise BI solution in AdventureWorks. Evidence should be provided from the case study.
 
-> **Result**: After you completed this exercise, you have created a Microsoft Word document that shows a table of security requirements for AdventureWorks.
+> **Result**: After you completed this exercise, you have created a Microsoft Word document that shows a table of requirements for a Batch architecture for AdventureWorks.
 
 ### Task 2: 👩‍🏫 Build a high level Architecture that reflects the Enterprise BI solution in AdventureWorks. 
 
