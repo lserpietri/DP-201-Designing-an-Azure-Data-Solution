@@ -45,7 +45,7 @@ At the end of this lab, you will have:
   
 1. From the case study, list out the services that would benefit from scaling and how the scale units are measured per service.
 
-### Task 1: 📄 List the security requirements for AdventureWorks
+### Task 1: 📄 List the scaling requirements for AdventureWorks
 
 1. From your machine, open up the file [DP-201-Lab05_Ex01_Ta01.docx](../Labfiles/Starter/DP-201.5/DP-201-Lab05_Ex01_Ta01.docx)
 
